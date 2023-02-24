@@ -16,7 +16,13 @@ Press `Delete this repository` and confirm by typing `<Your username>/lab7`.
 
 ![Screenshot_20230223_061204](https://user-images.githubusercontent.com/110417453/221075006-c84bb97d-8aee-48f5-8b47-b920df8e576b.png)
 
-Now press `I understand the consequences, delete this repository` and if it prompts you for your password, input it. Now you're all set to start over again.
+Now press `I understand the consequences, delete this repository` and if it prompts you for your password, input it. 
+
+Now you'll need to remove the instance of the repository from your ieng6 account. Type `cd` to return to the home directory, then type `rm -rf lab7/` to remove the `lab7/` directory and all files inside it.
+
+![Screenshot_20230223_062603](https://user-images.githubusercontent.com/110417453/221077101-15140812-3f11-4193-bef3-92d56b386bf4.png)
+
+Now you're all set to start over again.
 
 ## 2. Setup: Fork the repository
 
